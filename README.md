@@ -30,7 +30,7 @@ I am also: 🏀 ex-national player, nature lover!
     <code><img height="35" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="figma"/></code>
     <code><img height="35" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress"/></code>
   <code><img height="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code></code>
-  <code><img height="35" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"/></code>
+  
   </div>
   <br/>
   </div>
