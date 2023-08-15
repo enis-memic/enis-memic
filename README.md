@@ -9,7 +9,7 @@
 
 ## About me
 
-I am a Full-Stack developer and business enthusiast with an BA degree of 2+ years of experience in business development. Fluent in multiple languages, frameworks, and technologies to constantly learn new things and improve business organization goals. I have strong skills in include Javascript, PostgreSQL, Ruby, React, and Redux. Currently I am full-stack student at [Microverse](https://www.microverse.org). I am a amibtious problem-solving type of guy, which is why coding is one of my passions. <br>
+I am a Full-Stack developer and business enthusiast with a BA degree of 2+ years of experience in business development. Fluent in multiple languages, frameworks, and technologies to constantly learn new things and improve business organization goals. I have strong skills in include Javascript, PostgreSQL, Ruby, React, and Redux. Currently, I am a full-stack student at [Microverse](https://www.microverse.org). I am an ambitious problem-solving type of guy, which is why coding is one of my passions. <br>
 I am also: 🏀 ex-national player, nature lover!
 
 
