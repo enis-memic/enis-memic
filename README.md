@@ -40,8 +40,8 @@ I'm Enis, a versatile Full Stack Developer with a business and finance degree, a
 
 ## Get in touch 😄
 
+- [MyPortfolio](https://enis-memic.github.io/My-portfolio/)
 - My previous experience in few lines, meet me up to find more. - [Linkedin](https://www.linkedin.com/in/enis-memic/).
-- Here is my portfolio. - [MyPortfolio](https://enis-memic.github.io/My-portfolio/)
-- You can reach me on my email. - enis.mema@gmail.com
+- Email: enis.mema@gmail.com
 
 [![Enis's GitHub stats](https://github-readme-stats.vercel.app/api?username=enis-memic)](https://github.com/enis-memic/github-readme-stats)
