@@ -9,8 +9,7 @@
 
 ## About me
 
-I am a Full-Stack developer and business enthusiast with a BA degree of 2+ years of experience in business development. Fluent in multiple languages, frameworks, and technologies to constantly learn new things and improve business organization goals. I have strong skills in including Javascript, PostgreSQL, Ruby, React, and Redux. Currently, I am a full-stack student at [Microverse](https://www.microverse.org). I am an ambitious problem-solving type of guy, which is why coding is one of my passions. <br>
-I am also: 🏀 ex-national player, nature lover!
+I'm Enis, a versatile Full Stack Developer with a business and finance degree, and a past life as a professional basketball player. At SB Capital, I honed my marketing and web maintenance skills. I breathe life into digital landscapes, seamlessly blending creativity and technology to craft captivating user experiences. Let's collaborate and elevate your projects to new heights with my winning combination of technical expertise and entrepreneurial spirit. Together, we'll score remarkable results!
 
 
 <div>
